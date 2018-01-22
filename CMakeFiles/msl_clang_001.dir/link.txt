@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/msl_clang_001.dir/main.c.o CMakeFiles/msl_clang_001.dir/insert.c.o CMakeFiles/msl_clang_001.dir/newTree.c.o CMakeFiles/msl_clang_001.dir/sortedTree.c.o CMakeFiles/msl_clang_001.dir/destroyTree.c.o  -o msl_clang_001 

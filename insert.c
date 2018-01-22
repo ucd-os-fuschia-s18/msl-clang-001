@@ -12,7 +12,7 @@ struct tree *insert(struct tree* tree, char *word)
     	return newTree(word);
 	}
 	
-	/* Otherwise, recursively  */
+	/* Otherwise, recursively insert nodes  */
 	if(strcmp(word,tree->word)<0)
 	{
 		tree->left = insert(tree->left, word);
