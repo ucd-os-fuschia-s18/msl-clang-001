@@ -49,7 +49,7 @@ and free structures.
 
 2. Run the program by:
 
-	% ./msl_clang_001 &lt; input file &gt; 
+	% ./msl_clang_001 &lt;input file&gt; 
    
 3. View the output
 
