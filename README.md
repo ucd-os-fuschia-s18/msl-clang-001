@@ -1,6 +1,6 @@
-# C Programming Assignment 1
-# Group: Fuschia (Scott Nedvesky, Kelli Webber, Serin Yu) 
-# Due: Jan. 21, 2018
+### C Programming Assignment 1
+### Group: Fuschia (Scott Nedvesky, Kelli Webber, Serin Yu) 
+### Due: Jan. 21, 2018
 
 _data structures and pointers in the C language_
 
@@ -44,10 +44,13 @@ and free structures.
 ### Building and running the program
 
 1. Compile the program by:
+
 	% make
 
 2. Run the program by:
+
 	% ./msl_clang_001 <input file> 
    
 3. View the output
+
 	% cat myOutput.txt
